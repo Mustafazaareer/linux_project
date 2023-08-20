@@ -1,0 +1,7 @@
+[Unit]
+Description=serve to run logFile.sh
+
+[Service]
+ExecStart=/home/mustafa/systemd/logFile.sh
+User=mustafa
+~                                      
